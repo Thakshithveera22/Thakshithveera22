@@ -8,7 +8,7 @@ I'm a tech enthusiast. Here are a few things about me:
 - 🌱 I’m currently learning new programming languages and improving my problem-solving skills.
 - 👯 I’m looking to collaborate on exciting projects and contribute to the open-source community.
 - 💬 Ask me about C++, Java, Data Structures, and Algorithms.
-- 📫 How to reach me: [email:thakshithneerukonda22@gmail.com]
+- 📫 How to reach me: [email:veerathakshith@gmail.com]
 - 😄 Pronouns: He/Him
 
 ## My Tech Stack
