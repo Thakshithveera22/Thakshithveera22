@@ -1,25 +1,78 @@
-# Hi, I'm Thakshith Veera! 👋
+# Hi, I'm Veera Neerukonda 👋
 
-![Profile Banner](https://github.com/Thakshithveera22/MyProfile/blob/main/images/banner.png)
+## About Me
+I'm a Computer Science graduate student at the University of Missouri with a strong interest in software development, machine learning, backend engineering, and building practical applications that solve real-world problems.
 
-I'm a tech enthusiast. Here are a few things about me:
+- MS in Computer Science @ University of Missouri
+- Interested in Software Development, Machine Learning, Backend Systems, and Full-Stack Applications
+- Currently improving my problem-solving, system design, and software engineering skills
+- Open to internships, collaborative projects, and open-source contributions
+- Reach me at: **thakshith.nvv@gmail.com**
 
-- 🔭 I’m interested in web development, artificial intelligence, and open-source projects.
-- 🌱 I’m currently learning new programming languages and improving my problem-solving skills.
-- 👯 I’m looking to collaborate on exciting projects and contribute to the open-source community.
-- 💬 Ask me about C++, Java, Data Structures, and Algorithms.
-- 📫 How to reach me: [email:veerathakshith.n@gmail.com]
-- 😄 Pronouns: He/Him
+---
 
-## My Tech Stack
+## Tech Stack
 
-- Programming languages: C++, Java
-- Data Structures and Algorithms (DSA)
-- Design and Analysis of Algorithms (DAA)
+### Languages
+- Python
+- C++
+- Java
+- SQL
 
-## Let's Connect
+### Frameworks & Tools
+- Flask
+- Streamlit
+- Git
+- GitHub
+- Linux
+- Jupyter Notebook
+- VS Code
 
-- [LinkedIn](https://www.linkedin.com/in/thakshith-veera-7410a9236)
-- [Threads](https://www.threads.net/@thxkshith_)
-- 
-Looking forward to connecting with fellow developers and learning from the community! 😊
+### Core Areas
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
+- Computer Networks
+- REST APIs
+- Backend Development
+
+---
+
+## Featured Projects
+
+### Machine Learning-Based Smart Assistant for Gestational Diabetes
+A machine learning application designed for predictive analysis with modular workflows, model inference, and an interactive user interface.
+
+**Tech:** Python, Streamlit, Machine Learning, Git
+
+---
+
+### WineWise - Wine Quality Prediction System
+A Flask-based machine learning project that predicts wine quality through backend APIs and structured model integration.
+
+**Tech:** Python, Flask, REST APIs, Machine Learning
+
+---
+
+### Image Caption Generation using NLP
+A computer vision and NLP-based project that generates textual descriptions for images using automated caption generation workflows.
+
+**Tech:** Python, NLP, Computer Vision, Machine Learning
+
+---
+
+## Certifications
+- AWS Certified Cloud Practitioner
+- Ethical AI
+- Gemini for Google Workspace
+- Introduction to Internet of Things
+
+---
+
+## Connect With Me
+- [LinkedIn](https://linkedin.com/in/nvvthakshith)
+- [GitHub](https://github.com/Thakshithveera22)
+
+---
+Always interested in learning, building, and contributing to impactful software projects.
