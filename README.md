@@ -1,4 +1,4 @@
-# Hi, I'm Veera Neerukonda 👋
+# Hi, I'm Veera Neerukonda
 
 ## About Me
 I'm a Computer Science graduate student at the University of Missouri with a strong interest in software development, machine learning, backend engineering, and building practical applications that solve real-world problems.
