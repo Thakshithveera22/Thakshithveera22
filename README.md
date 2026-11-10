@@ -1,78 +1,47 @@
-# Hi, I'm Veera Neerukonda
+# Veera Neerukonda
 
-## About Me
-I'm a Computer Science graduate student at the University of Missouri with a strong interest in software development, machine learning, backend engineering, and building practical applications that solve real-world problems.
+Computer Science graduate student at the University of Missouri. I work on software development, machine learning, and backend systems, with a focus on practical applications.
 
-- MS in Computer Science @ University of Missouri
-- Interested in Software Development, Machine Learning, Backend Systems, and Full-Stack Applications
-- Currently improving my problem-solving, system design, and software engineering skills
-- Open to internships, collaborative projects, and open-source contributions
-- Reach me at: **thakshith.nvv@gmail.com**
+Open to internships, collaborative projects, and open-source contributions.
+
+[LinkedIn](https://linkedin.com/in/nvvthakshith)
 
 ---
 
-## Tech Stack
+## Skills
 
-### Languages
-- Python
-- C++
-- Java
-- SQL
+**Languages:** Python · C++ · Java · SQL
 
-### Frameworks & Tools
-- Flask
-- Streamlit
-- Git
-- GitHub
-- Linux
-- Jupyter Notebook
-- VS Code
+**Frameworks and tools:** Flask · FastAPI · Streamlit · Git · GitHub · Linux · Jupyter
 
-### Core Areas
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS
-- Operating Systems
-- Computer Networks
-- REST APIs
-- Backend Development
+**Areas:** Machine learning · Computer vision · NLP · REST APIs · Backend development · Data structures and algorithms · Object-oriented programming · DBMS · Operating systems · Computer networks
 
 ---
 
-## Featured Projects
+## Projects
 
-### Machine Learning-Based Smart Assistant for Gestational Diabetes
-A machine learning application designed for predictive analysis with modular workflows, model inference, and an interactive user interface.
+**[Vision + Data Intelligence Chatbot](https://github.com/Thakshithveera22/vision-data-intelligence-chatbot)**
+Natural-language Q&A over images and video. A YOLOv8 and OpenCV pipeline feeds an analytics engine, served through a FastAPI backend and a Streamlit chat interface.
+`Python` `YOLOv8` `OpenCV` `FastAPI` `Streamlit` `SQLite`
 
-**Tech:** Python, Streamlit, Machine Learning, Git
+**[Neural Signal Intelligence Platform](https://github.com/Thakshithveera22/neural-signal-intelligence-platform)**
+EEG seizure detection pipeline on the CHB-MIT dataset, covering preprocessing, feature engineering, a Random Forest model with SHAP explanations, a FastAPI service, and a Streamlit dashboard.
+`Python` `Machine Learning` `FastAPI` `Streamlit` `SQLite`
 
----
+**[Image Caption Generation using NLP](https://github.com/Thakshithveera22/Image-Description-using-NLP)**
+Computer vision and NLP workflow that generates text descriptions for images.
+`Python` `NLP` `Computer Vision`
 
-### WineWise - Wine Quality Prediction System
-A Flask-based machine learning project that predicts wine quality through backend APIs and structured model integration.
+**WineWise: Wine Quality Prediction System** *(private repo)*
+Flask application that predicts wine quality through backend APIs and a trained model.
+`Python` `Flask` `REST APIs` `Machine Learning`
 
-**Tech:** Python, Flask, REST APIs, Machine Learning
-
----
-
-### Image Caption Generation using NLP
-A computer vision and NLP-based project that generates textual descriptions for images using automated caption generation workflows.
-
-**Tech:** Python, NLP, Computer Vision, Machine Learning
+**Smart Assistant for Gestational Diabetes** *(private repo)*
+Machine learning application for predictive analysis, with modular workflows, model inference, and an interactive interface.
+`Python` `Streamlit` `Machine Learning`
 
 ---
 
 ## Certifications
-- AWS Certified Cloud Practitioner
-- Ethical AI
-- Gemini for Google Workspace
-- Introduction to Internet of Things
 
----
-
-## Connect With Me
-- [LinkedIn](https://linkedin.com/in/nvvthakshith)
-- [GitHub](https://github.com/Thakshithveera22)
-
----
-Always interested in learning, building, and contributing to impactful software projects.
+AWS Certified Cloud Practitioner · Ethical AI · Gemini for Google Workspace · Introduction to Internet of Things
